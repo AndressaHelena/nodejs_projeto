@@ -2,13 +2,7 @@ import { Injectable } from '@nestjs/common';
 
 @Injectable()
 export class RegisterService {
-  async createRegister(
-    name: string,
-    email: string,
-    password: string,
-    site: string,
-    phone: string,
-  ) {
+  async createRegister(name: string, req) {
     return `Cliente ${name} cadastrado com sucesso`;
   }
 }

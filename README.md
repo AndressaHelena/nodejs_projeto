@@ -2,6 +2,14 @@
   <a href="#"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
+# Trabalho Individual
+>- Andressa Helena Moreira
+
+* Utilize o projeto que acabaram de fazer.  Cada membro da equipe pode ter uma cópia do trabalho.
+* Crie os DTOs para validar corretamente os parâmetros de entrada. Exiba as mensagens adequadas, todos os campos menos phone são obrigatórios.
+* Você deve enviar o próprio trabalho. Subir em um repositório no Github e enviar no link abaixo.
+
+
 # Trabalho em grupo - 28/10
 
 ## Grupo: Priscilla Correa, Fran, Mylena Mel, Andressa Helena, Julia Nunes, Maria Luísa
